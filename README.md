@@ -10,3 +10,4 @@ We are thinking of building a Trebuchet that is controlled by our pi, or a catap
 ### The Actual Design
 We are going with the epic trebuchet idea
 ### Drawing
+![Trebuchet "Blueprint"](https://github.com/sliving03/Images/blob/master/IMG_1057.JPG)
