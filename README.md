@@ -11,6 +11,10 @@ We are thinking of building a Trebuchet that is controlled by our pi, or a catap
 We are going with the epic trebuchet idea
 ### Drawing/Blueprint
 ![Trebuchet "Blueprint"](https://github.com/sliving03/Images/blob/master/IMG_1057.JPG)
+### SolidWorks Rendering
+![Trebuchet Front SolidWorks](https://github.com/ASouleY/Adens-Heap-of-Engineering/blob/master/Trebuchet%20Front%20SW.PNG)
+
+![Trebuchet Side SolidWorks](https://github.com/ASouleY/Adens-Heap-of-Engineering/blob/master/Trebuchet%20Side%20SW.PNG)
 ### Picture of Prototype
 ![The Great No Tech Prototype Side](https://github.com/sliving03/Images/blob/master/IMG_1088.JPG)
 
